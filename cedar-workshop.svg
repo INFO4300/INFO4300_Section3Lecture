@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="760" viewBox="0 0 1120 760" role="img" aria-labelledby="title desc">
+<title id="title">One workshop, connected work</title><desc id="desc">An original fictional library scene. Three colleagues prepare a workshop with a schedule board, a screen, materials and a welcome table. Conflicting time cards and an unchecked materials box illustrate a coordination gap.</desc>
+<defs><pattern id="books" width="76" height="70" patternUnits="userSpaceOnUse"><rect x="4" y="8" width="13" height="56" rx="2" fill="#006747"/><rect x="21" y="18" width="12" height="46" rx="2" fill="#b9dcd2"/><rect x="37" y="10" width="15" height="54" rx="2" fill="#d6b88b"/><rect x="56" y="21" width="14" height="43" rx="2" fill="#53565a"/></pattern><linearGradient id="floor" x2="0" y2="1"><stop stop-color="#e5eee8"/><stop offset="1" stop-color="#cbdcd1"/></linearGradient></defs>
+<rect width="1120" height="760" rx="32" fill="#edf5f1"/>
+<path d="M35 482H1085L1120 760H0Z" fill="url(#floor)"/>
+<path d="M35 482H1085" stroke="#b9cec0" stroke-width="3"/>
+<rect x="72" y="104" width="241" height="359" rx="8" fill="#f9faf5" stroke="#718c7a" stroke-width="8"/>
+<rect x="86" y="145" width="213" height="289" fill="url(#books)"/>
+<path d="M82 220H304M82 291H304M82 362H304M82 433H304" stroke="#718c7a" stroke-width="9"/>
+<rect x="746" y="105" width="299" height="238" rx="8" fill="#fff" stroke="#006747" stroke-width="8"/>
+<rect x="766" y="127" width="259" height="157" rx="4" fill="#d7e9df"/>
+<path d="M848 170l68 36-68 37Z" fill="#006747"/>
+<path d="M896 347V452M826 456H966" stroke="#53565a" stroke-width="12" stroke-linecap="round"/>
+<rect x="370" y="95" width="302" height="213" rx="10" fill="#fff" stroke="#a4b9aa" stroke-width="5"/>
+<path d="M390 146H650M390 199H650M390 251H650" stroke="#dde8e0" stroke-width="3"/>
+<rect x="391" y="164" width="97" height="72" rx="6" fill="#f6db82" transform="rotate(-7 440 200)"/>
+<text x="404" y="210" fill="#183d30" font-family="Arial,sans-serif" font-weight="700" font-size="29">2:00</text>
+<rect x="536" y="164" width="97" height="72" rx="6" fill="#b9dcd2" transform="rotate(7 585 200)"/>
+<text x="548" y="210" fill="#183d30" font-family="Arial,sans-serif" font-weight="700" font-size="29">3:00</text>
+<circle cx="517" cy="125" r="9" fill="#006747"/>
+<ellipse cx="355" cy="673" rx="153" ry="26" fill="#9db6a7" opacity=".35"/>
+<ellipse cx="773" cy="650" rx="154" ry="28" fill="#9db6a7" opacity=".35"/>
+<path d="M329 501L316 648M374 501L394 648" stroke="#2d4b3b" stroke-width="28" stroke-linecap="round"/>
+<path d="M305 658H336M384 658H418" stroke="#24362d" stroke-width="18" stroke-linecap="round"/>
+<path d="M306 408Q347 380 390 408L401 526H298Z" fill="#00853e"/>
+<circle cx="351" cy="352" r="42" fill="#a56c4e"/>
+<path d="M310 350Q301 302 347 303Q390 303 396 350L383 333L367 318L336 320L322 349Z" fill="#303a32"/>
+<path d="M314 425L270 487L228 475M383 425L431 472L478 445" fill="none" stroke="#a56c4e" stroke-width="22" stroke-linecap="round"/>
+<rect x="443" y="403" width="70" height="77" rx="5" fill="#fff" stroke="#718c7a" stroke-width="3" transform="rotate(18 477 440)"/>
+<path d="M455 426H489M454 441H485M454 455H482" stroke="#718c7a" stroke-width="4"/>
+<path d="M744 491L729 628M791 491L817 629" stroke="#53565a" stroke-width="28" stroke-linecap="round"/>
+<path d="M714 638H745M806 639H842" stroke="#24362d" stroke-width="18" stroke-linecap="round"/>
+<path d="M728 394Q767 373 808 400L825 512H717Z" fill="#f8faf3" stroke="#c1d1c6" stroke-width="3"/>
+<circle cx="771" cy="343" r="42" fill="#dba879"/>
+<path d="M728 342Q725 294 768 297Q814 294 814 347L803 328L783 318L755 323L741 348Z" fill="#6c543e"/>
+<path d="M732 414L683 464L645 449M806 415L854 453L879 414" fill="none" stroke="#dba879" stroke-width="22" stroke-linecap="round"/>
+<path d="M879 414L882 379" stroke="#dba879" stroke-width="19" stroke-linecap="round"/>
+<path d="M490 483Q531 465 569 485L579 563H476Z" fill="#53565a"/>
+<circle cx="527" cy="437" r="35" fill="#794c38"/>
+<path d="M491 430Q492 395 530 398Q566 399 565 439L549 421L517 411L500 434Z" fill="#28372c"/>
+<path d="M492 503L461 545M563 503L607 539" stroke="#794c38" stroke-width="18" stroke-linecap="round"/>
+<path d="M183 574H656L700 610H151Z" fill="#b79a76"/>
+<path d="M174 611V702M674 611V702" stroke="#718c7a" stroke-width="15"/>
+<rect x="173" y="608" width="500" height="15" rx="6" fill="#8d765b"/>
+<rect x="211" y="520" width="143" height="55" rx="5" fill="#fff" stroke="#006747" stroke-width="3"/>
+<text x="226" y="555" font-family="Arial,sans-serif" font-size="23" fill="#006747" font-weight="700">WELCOME</text>
+<rect x="450" y="546" width="93" height="25" rx="2" fill="#b9dcd2" stroke="#006747" stroke-width="2"/>
+<rect x="462" y="534" width="93" height="15" rx="2" fill="#f6db82"/>
+<rect x="578" y="533" width="64" height="43" rx="4" fill="#f9faf5" stroke="#718c7a" stroke-width="3"/>
+<rect x="593" y="545" width="17" height="17" fill="none" stroke="#53565a" stroke-width="3"/>
+<path d="M937 528V657" stroke="#718c7a" stroke-width="8"/>
+<path d="M939 568Q885 548 897 509Q940 515 939 568M937 595Q995 567 988 532Q945 541 937 595" fill="#00853e"/>
+<path d="M900 638H976L962 707H914Z" fill="#d0b28b"/>
+</svg>

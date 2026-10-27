@@ -1,0 +1,500 @@
+INFO 4300: MANAGEMENT OF INFORMATION AGENCIES
+
+SECTION 3: ORGANIZING / COMPLETE DESCRIPTIVE TRANSCRIPT
+
+Optional and ungraded. Complete Chapters 7-9 and your own case analysis. Consult Canvas for current assignment requirements and deadlines.
+
+All Cedar Crossing events, roles, proposals, and outcomes are fictional. Recorded AI narration: Kokoro af_heart.
+
+Teaching route: Service purpose -> Work and dependencies -> Roles and authority -> Coordination and culture -> Review and adaptation. Review feeds the next organizing decision. This is an original teaching diagram.
+
+
+
+1. GOOD SERVICE TAKES CONNECTED WORK.
+
+SECTION 3 / ORGANIZING
+
+NARRATION
+
+Welcome to Section Three: Organizing. A plan identifies the result we want. Organizing arranges the work and people needed to achieve it. At our fictional Cedar Crossing Library, a flexible learning room now hosts community workshops. Programs staff arrange speakers. Public services staff welcome participants. Technical support prepares equipment. But two announcements give different times, and everyone assumes someone else has checked the materials. The problem may be the connections between jobs, not a lack of effort. Our route moves from service purpose to work and dependencies, roles and authority, coordination and culture, then review and adaptation. Every Cedar Crossing event and outcome is invented. This optional lesson supports Chapters Seven through Nine. You still need the readings and your own analysis of Differential Treatment. Listen, read, revisit, or skip an activity whenever you choose.
+
+VISUAL DESCRIPTION
+
+An original illustration shows staff preparing one workshop: a schedule board, a welcome station, materials, and a screen. Two different times and an unchecked materials box suggest coordination gaps. The five-step teaching route ends with a feedback connection to earlier decisions.
+
+KEY IDEA
+
+Organizing connects the work, people, and authority needed to deliver a service.
+
+EXPLORE MORE
+
+What this lesson adds
+
+Planning establishes the results an organization seeks. Organizing determines necessary work, how to group it, who will do it, and how the contributions fit together. The functions inform one another as circumstances change.
+
+Your reading route
+
+Chapter 7 examines organizations and culture. Chapter 8 explains specialization and coordination. Chapter 9 examines adaptive structures. The case is a separate assignment; consult Canvas for its current requirements.
+
+Fictional setting
+
+Cedar Crossing is an original teaching setting, not a description of UNT or Fairmead. Its workshops are a small recurring service. Roles may be held by the same person; this example does not propose hiring a person for every task.
+
+
+
+2. A CHART SHOWS AUTHORITY, NOT THE WHOLE ORGANIZATION.
+
+CHAPTER 7 / FORMAL & INFORMAL ORGANIZATION
+
+NARRATION
+
+An organization is a group arranged to pursue a purpose. Its structure distributes work and formal relationships. Look at Cedar Crossing's example chart. The director supervises three roles: a programs lead, a public services supervisor, and a technical support specialist. The public services supervisor, in turn, supervises two assistants. Those assistants are not direct reports of the director. Formal authority follows the labeled reporting lines, not whichever box looks higher on the page. Alongside this formal structure, informal relationships develop. An experienced assistant may be the person everyone consults about welcoming a large group. That influence can help the workshop, but it does not make the assistant everyone's supervisor. The chart cannot tell us who trusts whom, how smoothly information travels, or whether actual responsibilities match the labels. Libraries also operate within parent institutions, whose arrangements shape local authority. A useful chart is a starting point for questions, not a complete picture of organizational life.
+
+VISUAL DESCRIPTION
+
+Director at the top has three direct reporting relationships: programs lead, public services supervisor, and technical support specialist. The public services supervisor has two direct reports, Assistant A and Assistant B. A separate informal-advice panel shows that an experienced assistant can advise colleagues without supervising them.
+
+KEY IDEA
+
+Read reporting lines carefully. Informal expertise is a different relationship.
+
+OPTIONAL PRACTICE
+
+In this fictional chart, how many roles report directly to the director?
+
+1. Three: programs lead, public services supervisor, and technical support specialist.
+
+2. Five: everyone below the director.
+
+3. Two: the public services assistants.
+
+Feedback 1: Correct. Follow the three lines labeled “supervises” from the director.
+
+Feedback 2: The two assistants report to the public services supervisor. Being elsewhere below the director does not make them direct reports.
+
+Feedback 3: Those two roles report directly to the public services supervisor, not to the director.
+
+EXPLORE MORE
+
+Formal and informal organization
+
+Formal organization includes assigned work, official roles, and recognized authority. Informal organization develops through relationships, shared interests, trusted knowledge, and influence. Informal networks can improve cooperation or exclude people; their effects depend on how they function.
+
+Read the legend
+
+The example uses solid connectors labeled “supervises” for direct reporting. A separate panel labeled “informal advice” represents influence without a supervisory relationship. Real charts vary in their conventions. Do not infer authority from color, page position, or an unlabeled line.
+
+Limits and context
+
+An organizational chart is a simplified, dated representation. Check it against current responsibilities and workflow. A library within a university, school, municipality, or other parent institution may share authority with other offices. No real UNT or Fairmead reporting structure is implied.
+
+
+
+3. LOOK BENEATH THE STATED VALUES.
+
+CHAPTER 7 / ORGANIZATIONAL CULTURE
+
+NARRATION
+
+Culture is the shared pattern of assumptions, values, and norms that shapes how people work. It is more than a mission statement. Schein describes three levels. Artifacts are visible features, such as a meeting routine. Espoused values are the principles an organization says it follows. Shared basic assumptions are deeper, often unquestioned beliefs. Imagine that Cedar Crossing says collaboration matters, but its meetings recognize only individual departments' results. The meeting routine is an artifact. Collaboration is an espoused value. Perhaps staff believe helping another department will not count toward their own success. That last statement is a hypothesis to investigate, not something one meeting proves. Leaders, history, and shared experiences all influence culture. A strong culture can support cooperation or reinforce an unhelpful habit. Posting a new slogan does not settle that question. Ask how everyday practices affect whether people exchange information, ask for help, and raise concerns.
+
+VISUAL DESCRIPTION
+
+Three labeled layers distinguish a visible meeting routine, a stated commitment to collaboration, and a possible underlying belief. The belief is explicitly marked “hypothesis, not established fact.”
+
+KEY IDEA
+
+Visible behavior is evidence. An underlying assumption is an interpretation to investigate.
+
+OPTIONAL PRACTICE
+
+A staff meeting recognizes only departmental totals. Which statement stays closest to the evidence?
+
+1. The meeting proves that everyone opposes collaboration.
+
+2. The meeting routine is an observable artifact; its deeper meaning needs investigation.
+
+3. The library has no organizational culture.
+
+Feedback 1: That goes beyond the observation. Staff may interpret the routine differently, and one event does not establish everyone’s beliefs.
+
+Feedback 2: Correct. You can describe the routine while investigating its meaning and effects.
+
+Feedback 3: All organizations develop patterns and norms. This observation alone cannot tell you the whole culture.
+
+EXPLORE MORE
+
+Three levels, one careful distinction
+
+Artifacts are observable manifestations such as rituals, language, stories, and physical arrangements. Espoused values express what the organization says matters. Shared basic assumptions are taken-for-granted beliefs. Avoid inferring the deepest level from one observation.
+
+Culture develops over time
+
+Founders and leaders, members’ shared experiences, and new members all contribute. Departments can have different norms within one organization. Changing a chart or announcing new values may have little effect unless daily behavior and expectations also change.
+
+Interpreting differences
+
+A strong or widely shared culture is not necessarily ethical or effective. National-culture models discussed in the reading are broad analytical frameworks, not reliable predictions of any individual. Do not explain a colleague’s behavior through gender, nationality, or other stereotypes.
+
+
+
+4. DIVIDE THE WORK. FOLLOW THE WHOLE SERVICE.
+
+CHAPTER 8 / DIVIDING WORK
+
+NARRATION
+
+Specialization divides work so people can develop expertise. Horizontal specialization groups activities across units. Vertical differentiation establishes levels of authority. Horizontal does not automatically mean a flat hierarchy. Our workshop crosses several functions. Programs staff agree on the topic, public services handles registration, and technical support checks equipment. Each group can do its own task well while the overall experience still fails at a handoff. A function describes a kind of work. A process follows related activities toward an outcome, often across departments. Trace the workshop from request, through preparation, to delivery and follow-up. Where does information need to move? Who notices when it does not? Libraries can group work by function, territory, product, customer, process, subject, or form of resources. Different groupings offer different advantages. A branch arrangement can bring service closer to users; a subject department can build deep expertise. Both still need connections with other units. The design should serve the whole result, not just tidy boxes.
+
+VISUAL DESCRIPTION
+
+A four-step workflow shows request and program agreement, registration and communication, room and equipment preparation, then delivery and review. Each step identifies a role and a handoff. A side comparison distinguishes horizontal grouping from vertical reporting levels.
+
+KEY IDEA
+
+Specialization builds expertise. Coordination connects that expertise to the user’s experience.
+
+EXPLORE MORE
+
+Seven methods of departmentalization
+
+Function groups similar work, such as cataloging. Territory groups work by location, such as branches. Product groups work around outputs or product lines, such as a distinct publishing service in an information agency. Customer groups work around user communities, such as children’s services. Process groups related activities around a service outcome, such as acquiring and preparing materials for use. Subject groups work by content area, such as a science library. Form of resources groups work by format, such as maps or audiovisual materials. Real libraries often combine approaches.
+
+Tradeoffs matter
+
+Specialization can improve expertise and efficiency but also create duplicated effort, missed responsibilities, narrow priorities, or competition. A user generally experiences the complete service, even when several departments contribute.
+
+Mintzberg’s organizational elements
+
+The supplied chapter describes six: strategic apex (top management), operating core (mission-delivering work), middle line (managers connecting levels), technostructure (technical expertise in this chapter’s account), support staff (specialist support), and ideology (shared beliefs, traditions, norms, and values). Size and context affect how these elements appear.
+
+
+
+5. AUTHORITY AND INFLUENCE ARE NOT IDENTICAL.
+
+CHAPTER 8 / AUTHORITY AND POWER
+
+NARRATION
+
+Authority is legitimate discretion attached to a role. Power is the ability to influence. A technical specialist may influence a decision through expertise without supervising the programs lead. The chapter identifies legitimate, reward, coercive, expert, and referent power. Responsibility is a duty to perform work; accountability is answerability for it. These ideas connect, but they are not interchangeable. Centralization concentrates decision authority. Decentralization distributes it. The distinction concerns decisions, not whether people work in the same building. Cedar Crossing might reserve new spending commitments for its director while letting the programs lead adjust a workshop schedule within approved limits. A wider span of control means more direct reports for a supervisor, often in a flatter structure. Whether that is workable depends on the tasks, people's preparation, and available support. There is no ideal number for every library. Finally, the textbook's line and staff distinction concerns operational authority versus specialist advice. It does not mean professional librarians versus paraprofessionals, or more valuable versus less valuable people.
+
+VISUAL DESCRIPTION
+
+Four definitions distinguish authority, power, responsibility, and accountability. A fictional decision split assigns new spending commitments to the director and schedule adjustments within approved limits to the programs lead. A reminder separates decision decentralization from physical location.
+
+KEY IDEA
+
+Clarify who may decide, who contributes expertise, and who answers for the work.
+
+EXPLORE MORE
+
+Five bases of power
+
+Legitimate power comes from a formal position, such as a supervisor assigning work. Reward power comes from providing positive consequences, such as recognition. Coercive power comes from the capacity to impose punishment, such as a formal warning within assigned authority. Expert power comes from knowledge or skill, such as equipment expertise. Referent power comes from respect or identification, such as a trusted colleague whose example others follow. These describe sources of influence, not permission to use them without limits.
+
+Decision authority can vary by task
+
+An organization can centralize policy and spending decisions while delegating routine scheduling decisions. Expertise informs a decision but does not automatically authorize someone to change every procedure. Define the scope of authority explicitly.
+
+Span and hierarchy
+
+A narrow span can create more managerial levels; a wide span can create fewer. Work complexity, varied responsibilities, staff experience, and available supervision affect what is workable. Counting boxes alone cannot establish the best design.
+
+Line and staff relationships
+
+In the textbook model, line positions carry authority for operations; staff positions advise or support. A specialist can supervise people within their own unit while advising another unit. The actual authority of HR, technology, or other offices depends on institutional arrangements.
+
+
+
+6. GIVE THE WORK A WORKABLE MANDATE.
+
+CHAPTER 8 / DELEGATION
+
+NARRATION
+
+Delegation is more than telling someone to handle it. Suppose the director asks the programs lead to coordinate the next workshop. A useful assignment identifies the result: one confirmed schedule and a ready room. It also supplies decision authority, such as adjusting preparation times within agreed staffing. The limits matter too: no new spending commitment without approval. Resources include time, information, and access to the people doing the work. A brief check-in provides support and a way to raise problems. The manager retains responsibility for appropriate oversight. Taking every small decision back undermines delegation; disappearing entirely is not the alternative. Unity of command is the classical principle that one supervisor gives an employee assignments and evaluates the work. Where multiple reporting relationships exist, employees need clear priorities and a way to resolve competing directions. Naming a workshop coordinator does not silently give that person unlimited authority over every department. Make the relationship explicit before the first conflicting request arrives.
+
+VISUAL DESCRIPTION
+
+A fictional delegation sheet names the programs lead, a confirmed schedule and ready room, permitted schedule adjustments, the spending boundary, approved preparation time, and a check-in. Every term is an example rather than an institutional policy.
+
+KEY IDEA
+
+An assignment needs authority, capacity, boundaries, and support.
+
+OPTIONAL PRACTICE
+
+The coordinator must confirm preparation times, but every small timing change still needs a director’s reply. What would most directly improve this assignment?
+
+1. Keep the responsibility but withhold the schedule information.
+
+2. Remove all limits and all review.
+
+3. Define which timing decisions the coordinator can make within approved staffing limits.
+
+Feedback 1: Responsibility without the information needed to carry it out makes delivery harder.
+
+Feedback 2: Delegation still needs boundaries, support, and appropriate oversight.
+
+Feedback 3: Correct. Clear, bounded decision authority helps the coordinator deliver the assigned result.
+
+EXPLORE MORE
+
+A complete assignment
+
+Specify the intended result, responsible role, decision scope, boundaries, resources, information, and review arrangements. Confirm that the person has the preparation and capacity to carry it out. Delegating responsibility without usable authority creates frustration.
+
+Support without taking over
+
+Agree on check-ins and conditions for escalation. Let the person make decisions within scope. Oversight should support learning and delivery, not turn every minor choice back into a request for permission.
+
+Competing instructions
+
+Unity of command reduces conflict by locating supervision clearly. Matrix and other arrangements can involve several reporting relationships. Then priorities, workload allocation, and responsibility for resolving conflicts must be explicit. A project title alone does not establish them.
+
+
+
+7. MAKE THE HANDOFF VISIBLE.
+
+CHAPTER 8 / COORDINATION
+
+NARRATION
+
+Coordination brings specialized contributions together. At Cedar Crossing, two people publish different workshop times because no one confirms which schedule is final. Another meeting might help, but a meeting is not the only tool. Mutual adjustment means people coordinate through direct informal communication. Direct supervision gives someone responsibility for directing the work. Standardizing work processes specifies how a recurring task is done. Standardizing outputs specifies the required result. Standardizing skills establishes the preparation needed to perform the work. These are the chapter's five coordinating mechanisms. Cedar Crossing can combine them. A shared checklist can specify that the programs lead confirms the time before public services publishes it. A brief conversation can resolve an unusual equipment request. The checklist needs an owner, current information, and a route for exceptions. Too little coordination leaves gaps; too much consumes the time needed to deliver the service. Ask whether the next person receives the right information at the right time, not simply how many meetings took place.
+
+VISUAL DESCRIPTION
+
+A before-and-after handoff illustrates two conflicting announcements versus one confirmed shared schedule. Five labeled mechanisms distinguish informal adjustment, supervision, standardizing processes, outputs, and skills.
+
+KEY IDEA
+
+Coordination succeeds when the next person has what they need to act.
+
+EXPLORE MORE
+
+Five mechanisms, plainly
+
+Mutual adjustment: coordinate through informal communication. Direct supervision: one person directs and monitors work. Standardization of processes: specify how the work is done. Standardization of outputs: specify the result. Standardization of skills: specify relevant preparation or training. Organizations combine them; no single sequence suits every context.
+
+A fictional handoff agreement
+
+Before publishing, public services uses the time confirmed by the programs lead in the shared schedule. Unresolved conflicts return to the designated coordinator. The example illustrates an agreed process, not a universal library rule.
+
+Useful coordination
+
+Policies, procedures, shared information, specialist advice, committees, and plans can help units work together. Evaluate the cost of coordination alongside its value. A committee that cannot decide or act may simply move the bottleneck.
+
+
+
+8. CHOOSE FEATURES THAT FIT THE WORK.
+
+CHAPTER 9 / STRUCTURAL CHOICES
+
+NARRATION
+
+Mechanistic and organic describe broad approaches to structure. Mechanistic features emphasize hierarchy, defined roles, standardized work, and centralized decisions. Organic features emphasize flexible roles, lateral communication, and more distributed decisions. Real organizations can combine both. Cedar Crossing benefits from a predictable confirmation process for routine workshops. A new kind of event may also need specialists to adapt together. Bureaucracy was intended to bring consistency, clear responsibilities, and decisions based on roles and competence rather than personal favoritism. Yet rules can become rigid, and departments can lose sight of the people they serve. Removing every rule does not automatically create trust or good service. Adding more rules does not guarantee fairness either. Ask which problem the structure is meant to address. Stable tasks, changing demands, staff preparation, and coordination costs all matter. A flatter chart can speed some communication while placing more demands on the people coordinating the work.
+
+VISUAL DESCRIPTION
+
+A two-column comparison presents mechanistic and organic features without a winner badge. A shared middle band states that routine confirmation and flexible collaboration can coexist.
+
+KEY IDEA
+
+Structure should fit the work and context. Neither model is a universal winner.
+
+EXPLORE MORE
+
+Compare features rather than labels
+
+Mechanistic models emphasize formal hierarchy, specialization, standardization, and centralized decisions. Organic models emphasize lateral communication, flexible roles, expertise, and distributed decisions. Context may favor different features for different work.
+
+Bureaucracy’s intended strengths and possible weaknesses
+
+Weber’s model emphasized role-based authority, technical competence, defined responsibilities, formal rules, and separation of organizational affairs from personal affairs. Intended benefits include continuity and consistency. Possible problems include rigidity, red tape, silos, and poor responsiveness. Neither benefits nor harms are guaranteed by the label alone.
+
+Assess fit
+
+Consider goals, work complexity, organizational size, interdependence, people’s capabilities, the external environment, and service continuity. A structure popular elsewhere may not fit the library’s own problem.
+
+
+
+9. A GROUP NEEDS A CLEAR JOB AND CLEAR AUTHORITY.
+
+CHAPTER 9 / CONNECTING ACROSS UNITS
+
+NARRATION
+
+A committee, project group, matrix, and self-managing team are not the same thing. A standing committee addresses ongoing matters; a temporary committee addresses a bounded need. Its authority might be advisory or decision-making, so the assignment must say which. A project group focuses on a defined result over a limited period. A matrix combines overlapping reporting relationships, such as functional departments and projects. That can connect expertise, but it can also create competing priorities. Adding one committee does not automatically create a matrix. A self-managing team takes on responsibilities that supervisors traditionally handled, within its agreed scope. Calling a group a team does not make it self-managing. For Cedar Crossing's modest workshop problem, clearer handoffs inside existing departments may be enough. A temporary project group is another option if the work needs sustained collaboration. Compare clarity, workload, service continuity, flexibility, and coordination cost before choosing. More structural complexity needs a reason.
+
+VISUAL DESCRIPTION
+
+Three labeled panels distinguish committees, bounded project groups, and self-managing teams. A separate matrix schematic labels an employee’s functional reporting relationship and project reporting relationship. The caption stresses explicit priorities and conflict resolution.
+
+KEY IDEA
+
+State whether a group advises, decides, or carries out the work.
+
+EXPLORE MORE
+
+Committee or project group?
+
+A standing committee is continuing; an ad hoc committee is temporary. A project group has a defined result and endpoint. Specify its sponsor, membership, time commitment, authority, resources, and expected output. A temporary assignment does not require a permanent organizational redesign.
+
+Matrix relationships
+
+A matrix overlays dimensions such as function and project, creating multiple reporting relationships. Make responsibility, time allocation, priorities, and conflict resolution explicit. Collaboration arrows alone are not reporting lines.
+
+Self-managing teams
+
+These teams can allocate tasks, arrange schedules, and monitor results within a delegated scope. They need preparation, resources, clear accountability, and organizational support. Teamwork does not necessarily mean self-management.
+
+Three options for Cedar Crossing
+
+Clarify existing handoffs: low structural disruption but requires follow-through. Use a temporary project group: focused collaboration but additional time and priority management. Undertake a broad reorganization: may fit a larger, demonstrated problem but costs more and disrupts more. The example does not establish that the third option is needed.
+
+
+
+10. CHANGE THE ARRANGEMENT, THEN CHECK THE RESULT.
+
+CHAPTER 9 / IMPLEMENTING CHANGE
+
+NARRATION
+
+Before redrawing the chart, diagnose the problem. Drucker's activities analysis asks what work is needed and where it belongs. Decision analysis asks which decisions are needed and who should make them. Relations analysis asks how units and managers depend on one another. At Cedar Crossing, those questions may reveal a missing confirmation step rather than a need for another management layer. For this fictional pilot, the director retains the departments and asks the programs lead to coordinate a shared preparation schedule. Staff help define responsibilities and practice the handoffs. The library keeps its regular service running during the change. After several workshops, the manager reviews conflicting announcements, missed preparation, workload, and participants' experience. Those are proposed measures, not results already achieved. If gaps remain, adjust the arrangement. Reorganization affects relationships, skills, and identities as well as tasks. Explain the purpose, provide training and time, and listen to concerns. A neat new chart is not evidence that the change worked.
+
+VISUAL DESCRIPTION
+
+Three analysis questions lead to a modest fictional pilot: retain departments, clarify handoffs, and give the programs lead bounded coordination responsibility. A review loop checks errors, workload, and user experience, then returns to the work design.
+
+KEY IDEA
+
+Diagnose first. Support the transition. Evaluate the service and the workload.
+
+OPTIONAL PRACTICE
+
+One workshop handoff repeatedly fails, while the other work is functioning. What is the strongest first step?
+
+1. Replace the whole structure because any error proves it is obsolete.
+
+2. Examine the tasks, decisions, and dependencies at that handoff before choosing a change.
+
+3. Ignore the handoff because each department completed its own task.
+
+Feedback 1: One failure does not establish that a wholesale reorganization is needed. Investigate before choosing the remedy.
+
+Feedback 2: Correct. Diagnosis helps match the scale of the change to the actual problem.
+
+Feedback 3: The overall service still depends on the connection between departments.
+
+EXPLORE MORE
+
+Three analyses
+
+Activities analysis examines needed work and its grouping. Decision analysis examines the decisions required, where they belong, and who participates. Relations analysis examines dependencies and responsibilities among units and managers. The chapter attributes these approaches to Peter Drucker.
+
+A workable transition
+
+Involve affected employees and relevant stakeholders. Assess managers’ and staff members’ readiness. Clarify responsibilities, provide training, communicate internally and with the parent institution where appropriate, and maintain service during implementation.
+
+Evaluate and revise
+
+Use evidence tied to the original problem. In this fictional example, compare coordination errors, workload, and participant experience before and during the pilot. Gather staff feedback, look for unintended effects, and revise. No actual pilot results are claimed.
+
+People are not interchangeable boxes
+
+A change may affect skills, relationships, professional identity, and perceived security. Concerns can reveal genuine implementation problems. Staff support and training are part of the change, not an optional final announcement.
+
+
+
+11. BRING QUESTIONS AND EVIDENCE TO FAIRMEAD.
+
+CASE PREPARATION / DIFFERENTIAL TREATMENT?
+
+NARRATION
+
+Now turn to Differential Treatment, the assigned case by Sarah Hays. Robert is a paraprofessional at Fairmead Library. He describes concerns about his new manager, Regina Price, including reminders, an interrupted training activity, and a note about vacation requests. He compares his treatment with coworkers' treatment and reports differences in how she serves patrons. The account follows Robert's perspective. His worry that she is preparing to terminate him is not a confirmed outcome. The closing questions ask whether he is a victim of sexual harassment and what might lessen such conduct. The lesson does not decide either question. Start with reported events, interpretations, and missing information. Then select relevant concepts, such as authority, culture, or coordination, and explain the evidence for each connection. Consider alternative interpretations and workable responses before defending your own recommendation. Management concerns and legal conclusions are different kinds of claims. Read the full case and the current Canvas instructions. Neither the fictional workshop nor this analysis framework supplies your answer.
+
+VISUAL DESCRIPTION
+
+Two columns distinguish reported events from interpretations and unknowns. A six-step general analysis pathway runs from evidence and perspective to a justified recommendation and follow-through. It does not supply findings, a complaint route, or a solution to the case.
+
+KEY IDEA
+
+Separate reported events, interpretations, and missing information before justifying your own conclusion.
+
+EXPLORE MORE
+
+Case context and limits
+
+Fairmead is a medium-sized public library. Robert works at its Information Desk as a second job and also works in a hospital accounting office. Regina Price replaced his former manager about three months earlier. Robert proposed cash-transaction changes and offered training. The narrative does not establish the full approval history, leave rules, all comparable circumstances, or Ms. Price’s explanation.
+
+Reported events and interpretations
+
+The case describes an order relayed through a coworker to stop training, routine reminders, a vacation-request note, comparisons with coworkers including Margaret, and Robert’s observations of patron interactions. Do not invent an investigation, formal complaint, termination decision, motive, or resolution.
+
+An original analysis aid
+
+Identify reported events and perspective; list missing information and alternative interpretations; connect relevant organizing concepts; compare possible responses and consequences; then justify a recommendation and explain follow-through. This sequence is a teaching aid, not a completed case analysis.
+
+The case’s closing questions
+
+Is Robert the victim of sexual harassment? What can be done to lessen the possibility of such conduct? These are the supplied case’s questions, not findings established by this lesson.
+
+Use terms carefully
+
+Unfair treatment, sex discrimination, and sexual harassment are not interchangeable labels. This lesson does not provide a legal test or a case verdict. If you make a legal claim in your own work, consult current authoritative guidance and the assignment’s expectations. The supplied case’s 2015 copyright date does not make it a current legal reference.
+
+Respect and course next steps
+
+Do not infer motives or credibility from gender, professional status, or a single incident. You do not need to disclose your own workplace experiences. Complete Chapters 7-9 and read the full case in Canvas; use the current assignment instructions for submission requirements and deadlines.
+
+LIBRARY LOOT DROP: ALL STATEMENTS AND EXPLANATIONS
+
+The game is optional and has no grade impact. The first item is practice.
+
+1. Dividing work creates a need to connect the contributions.
+
+True. Specialization and coordination work together.
+
+2. An organizational chart shows every source of influence.
+
+False. Informal expertise, trust, and relationships may not appear in formal reporting lines.
+
+3. An observed meeting routine is a cultural artifact.
+
+True. It is visible evidence. Its deeper meaning still needs interpretation and investigation.
+
+4. A wider span of control will improve this library.
+
+It depends. Similar tasks and well-prepared staff may make a wider span workable; varied work needing close support may call for a narrower span. Consider coordination demands and the manager’s capacity.
+
+5. Delegating a task removes the manager’s responsibility for oversight.
+
+False. Delegation provides appropriate authority and support while the manager retains responsibility for oversight.
+
+6. Decentralization describes where decision authority is distributed.
+
+True. It concerns who may decide, not simply where offices or branches are located.
+
+7. Specifying the required result is standardizing outputs.
+
+True. Standardizing processes specifies how work is done; standardizing outputs specifies the result.
+
+8. Adding a committee automatically creates a matrix structure.
+
+False. A matrix involves overlapping reporting relationships. A committee may simply provide advice or coordinate a bounded task.
+
+9. A new chart proves that a reorganization improved service.
+
+False. Evaluate the original problem, service experience, workload, and unintended effects.
+
+SOURCES
+
+Moran, B. B., & Morner, C. J. (2017). Library and information center management (9th ed.). ABC-CLIO. Assigned Section 3 excerpt: Chapter 7, Organizations and Organizational Culture; Chapter 8, The Fundamentals of Organization: Specialization and Coordination; Chapter 9, Designing Adaptive Organizational Structures.
+
+Hays, S. (2015). Differential treatment? [Case study supplied for course]. The printed credit identifies Sarah Hays, UNC Chapel Hill SILS graduate. The supplied document bears a 2015 ABC-CLIO copyright notice; an original publication venue is not identified. The date above follows that notice, not PDF metadata.
+
+All Cedar Crossing examples, diagrams, practice questions, and game content are original teaching applications. Read the assigned textbook and case in Canvas. This lesson does not redistribute those PDFs or provide a case answer.
+
+
+Further resources and accessibility notes are available on sources.html in the lesson.
